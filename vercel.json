@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://web-production-cd6dc0.up.railway.app/$1",
+      "destination": "https://studyhub-production-e75a.up.railway.app",
       "permanent": true
     }
   ]
